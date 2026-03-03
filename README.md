@@ -30,3 +30,4 @@ Documentación sobre la administración estratégica de activos de información 
 
 ## 📬 Contacto
 * **Email:** anaaliciaarsandov[at] gmail.com
+* ⚠️ Nota: Este portafolio se encuentra actualmente en construcción. Estoy documentando mis proyectos de GRC y laboratorios de redes.
