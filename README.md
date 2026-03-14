@@ -65,3 +65,7 @@ Actualmente estoy desarrollando laboratorios prácticos de ciberseguridad:
 ## 📬 Contacto
 * **Email:** anaaliciaarsandov[at] gmail.com
 ### 💬 Si tu equipo busca a alguien que piense la ciberseguridad también desde el negocio y la gestión de riesgos, me encantará conversar.
+---
+### ⚠️ Nota
+
+**Este portafolio se encuentra en construcción activa mientras continúo desarrollando habilidades técnicas y proyectos prácticos en ciberseguridad.**
